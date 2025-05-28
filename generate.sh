@@ -31,7 +31,7 @@ echo "The version is different, updating..."
     echo "  <cachechk>$cache</cachechk>"
     echo "  <item>"
     echo "    <name>Plex Media Server</name>"
-    echo "    <internalName>Plex Media Server</internalName>"
+    echo "    <internalName>PlexMediaServer</internalName>"
     echo "    <category>Essentials</category>"
     echo "    <type>Entertainment</type>"
     echo "    <icon80>https://download.qnap.com/QPKG/images/QPKG/plex_80.png</icon80>"
@@ -39,17 +39,17 @@ echo "The version is different, updating..."
     echo "    <description>Plex organizes all of your personal media so you can easily access and enjoy it.</description>"
     echo "    <fwVersion>4.3.0</fwVersion>"
     echo "    <version>$shortversion</version>"
-    
+
     platforms=(
         "TS-NASX86 x86_64"
-	"OLD_X86 x86_64"
-	"TS-X70 x86_64"
- 	"TS-X79 x86_64"
+        "OLD_X86 x86_64"
+        "TS-X70 x86_64"
+        "TS-X79 x86_64"
         "TS-NASARM_64 aarch64"
         "TS-X28 aarch64"
         "TS-X32 aarch64"
         "TS-X32U aarch64"
-	"TS-X31XEU armv7neon"
+        "TS-X31XEU armv7neon"
         "TS-XA28A aarch64"
         "TS-X31P2 armv7neon"
         "TS-X31P3 armv7neon"
@@ -58,7 +58,7 @@ echo "The version is different, updating..."
         "TS-531P armv7neon"
         "TS-X31 armv7hf"
     )
-    
+
     for platform in "${platforms[@]}"; do
         IFS=' ' read -r platformID arch <<< "$platform"
         echo "    <platform>"
@@ -66,7 +66,7 @@ echo "The version is different, updating..."
         echo "      <location>https://downloads.plex.tv/plex-media-server-new/$version/qnap/PlexMediaServer-$version-$arch.qpkg</location>"
         echo "    </platform>"
     done
-    
+
     echo "    <publishedDate>$published</publishedDate>"
     echo "    <maintainer>Plex</maintainer>"
     echo "    <forumLink>https://plex.tv</forumLink>"

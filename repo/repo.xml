@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <plugins>
-  <cachechk>20250417130331</cachechk>
+  <cachechk>20250528231433</cachechk>
   <item>
     <name>Plex Media Server</name>
     <internalName>PlexMediaServer</internalName>
@@ -10,72 +10,72 @@
     <icon100>https://download.qnap.com/QPKG/images/QPKG/plex_80.png</icon100>
     <description>Plex organizes all of your personal media so you can easily access and enjoy it.</description>
     <fwVersion>4.3.0</fwVersion>
-    <version>1.41.6.9685</version>
+    <version>1.41.7.9823</version>
     <platform>
       <platformID>TS-NASX86</platformID>
-      <location>https://downloads.plex.tv/plex-media-server-new/1.41.6.9685-d301f511a/qnap/PlexMediaServer-1.41.6.9685-d301f511a-x86_64.qpkg</location>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.7.9823-59f304c16/qnap/PlexMediaServer-1.41.7.9823-59f304c16-x86_64.qpkg</location>
     </platform>
     <platform>
       <platformID>OLD_X86</platformID>
-      <location>https://downloads.plex.tv/plex-media-server-new/1.41.6.9685-d301f511a/qnap/PlexMediaServer-1.41.6.9685-d301f511a-x86_64.qpkg</location>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.7.9823-59f304c16/qnap/PlexMediaServer-1.41.7.9823-59f304c16-x86_64.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-X70</platformID>
-      <location>https://downloads.plex.tv/plex-media-server-new/1.41.6.9685-d301f511a/qnap/PlexMediaServer-1.41.6.9685-d301f511a-x86_64.qpkg</location>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.7.9823-59f304c16/qnap/PlexMediaServer-1.41.7.9823-59f304c16-x86_64.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-X79</platformID>
-      <location>https://downloads.plex.tv/plex-media-server-new/1.41.6.9685-d301f511a/qnap/PlexMediaServer-1.41.6.9685-d301f511a-x86_64.qpkg</location>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.7.9823-59f304c16/qnap/PlexMediaServer-1.41.7.9823-59f304c16-x86_64.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-NASARM_64</platformID>
-      <location>https://downloads.plex.tv/plex-media-server-new/1.41.6.9685-d301f511a/qnap/PlexMediaServer-1.41.6.9685-d301f511a-aarch64.qpkg</location>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.7.9823-59f304c16/qnap/PlexMediaServer-1.41.7.9823-59f304c16-aarch64.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-X28</platformID>
-      <location>https://downloads.plex.tv/plex-media-server-new/1.41.6.9685-d301f511a/qnap/PlexMediaServer-1.41.6.9685-d301f511a-aarch64.qpkg</location>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.7.9823-59f304c16/qnap/PlexMediaServer-1.41.7.9823-59f304c16-aarch64.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-X32</platformID>
-      <location>https://downloads.plex.tv/plex-media-server-new/1.41.6.9685-d301f511a/qnap/PlexMediaServer-1.41.6.9685-d301f511a-aarch64.qpkg</location>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.7.9823-59f304c16/qnap/PlexMediaServer-1.41.7.9823-59f304c16-aarch64.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-X32U</platformID>
-      <location>https://downloads.plex.tv/plex-media-server-new/1.41.6.9685-d301f511a/qnap/PlexMediaServer-1.41.6.9685-d301f511a-aarch64.qpkg</location>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.7.9823-59f304c16/qnap/PlexMediaServer-1.41.7.9823-59f304c16-aarch64.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-X31XEU</platformID>
-      <location>https://downloads.plex.tv/plex-media-server-new/1.41.6.9685-d301f511a/qnap/PlexMediaServer-1.41.6.9685-d301f511a-armv7neon.qpkg</location>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.7.9823-59f304c16/qnap/PlexMediaServer-1.41.7.9823-59f304c16-armv7neon.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-XA28A</platformID>
-      <location>https://downloads.plex.tv/plex-media-server-new/1.41.6.9685-d301f511a/qnap/PlexMediaServer-1.41.6.9685-d301f511a-aarch64.qpkg</location>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.7.9823-59f304c16/qnap/PlexMediaServer-1.41.7.9823-59f304c16-aarch64.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-X31P2</platformID>
-      <location>https://downloads.plex.tv/plex-media-server-new/1.41.6.9685-d301f511a/qnap/PlexMediaServer-1.41.6.9685-d301f511a-armv7neon.qpkg</location>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.7.9823-59f304c16/qnap/PlexMediaServer-1.41.7.9823-59f304c16-armv7neon.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-X31P3</platformID>
-      <location>https://downloads.plex.tv/plex-media-server-new/1.41.6.9685-d301f511a/qnap/PlexMediaServer-1.41.6.9685-d301f511a-armv7neon.qpkg</location>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.7.9823-59f304c16/qnap/PlexMediaServer-1.41.7.9823-59f304c16-armv7neon.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-X31X</platformID>
-      <location>https://downloads.plex.tv/plex-media-server-new/1.41.6.9685-d301f511a/qnap/PlexMediaServer-1.41.6.9685-d301f511a-armv7neon.qpkg</location>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.7.9823-59f304c16/qnap/PlexMediaServer-1.41.7.9823-59f304c16-armv7neon.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-X31XU</platformID>
-      <location>https://downloads.plex.tv/plex-media-server-new/1.41.6.9685-d301f511a/qnap/PlexMediaServer-1.41.6.9685-d301f511a-armv7neon.qpkg</location>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.7.9823-59f304c16/qnap/PlexMediaServer-1.41.7.9823-59f304c16-armv7neon.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-531P</platformID>
-      <location>https://downloads.plex.tv/plex-media-server-new/1.41.6.9685-d301f511a/qnap/PlexMediaServer-1.41.6.9685-d301f511a-armv7neon.qpkg</location>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.7.9823-59f304c16/qnap/PlexMediaServer-1.41.7.9823-59f304c16-armv7neon.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-X31</platformID>
-      <location>https://downloads.plex.tv/plex-media-server-new/1.41.6.9685-d301f511a/qnap/PlexMediaServer-1.41.6.9685-d301f511a-armv7hf.qpkg</location>
+      <location>https://downloads.plex.tv/plex-media-server-new/1.41.7.9823-59f304c16/qnap/PlexMediaServer-1.41.7.9823-59f304c16-armv7hf.qpkg</location>
     </platform>
-    <publishedDate>2025/04/09</publishedDate>
+    <publishedDate>2025/05/24</publishedDate>
     <maintainer>Plex</maintainer>
     <forumLink>https://plex.tv</forumLink>
     <snapshot>https://download.qnap.com/QPKG/img/PlexQNAPScreenshot.png</snapshot>
