@@ -1,5 +1,10 @@
 # Unofficial Plex Media Server Repository for QNAP QTS
 
+> [!WARNING]
+> QNAP now has more up-to-date versions, and so this isn't being maintained (the original owner of the repo removed the repo so it doesn't show this one being a fork anymore either).
+> If you want to switch back to QNAP QTS version, backup your Plex folder (files, for instance, at `/share/CACHEDEV1_DATA/.qpkg/PlexMediaServer/Library`), remove this version, re-install the QTS one, and restore the backed up files.
+> The repo will be archived unless the QTS one gets very outdated again, but there were issues (such as the naming conflicting and showing broken packages, or the full version not being stored properly and it always showing updates available).
+
 Unofficial Plex Media Server Repository for QNAP QTS.
 
 ## Why use my repository ?
@@ -26,3 +31,4 @@ Intel/AMD 64-bit (QTS-4.3 & newer)
 ## Updating frequency of script
 
 Every 30 minutes, my script fetch Plex API to get the last version of Plex and publish the new version.
+
